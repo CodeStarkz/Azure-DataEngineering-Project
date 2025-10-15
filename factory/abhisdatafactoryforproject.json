@@ -1,0 +1,9 @@
+{
+	"name": "abhisdatafactoryforproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fea66c39-81ed-49f7-96c1-6d7d441c2336",
+		"tenantId": "66298988-b6cd-4f53-b1ec-b617033e29ee"
+	}
+}
